@@ -1,0 +1,6 @@
+# Java 编译产物
+*.class
+/java-basic/out/
+
+# 按需创建的 Maven 案例构建产物
+/maven-cases/**/target/
