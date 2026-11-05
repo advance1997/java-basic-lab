@@ -28,3 +28,4 @@ java-basic-lab/
 ## 案例列表
 
 - [案例一：模拟 Tomcat 类加载器](java-basic/src/com/advance/javabasic/tomcatloader/README.md)：应用本地优先、父优先对照、共享与隔离，附 11 项可运行检查。
+- [案例二：SPI SDK 与插件平台](java-basic/src/com/advance/javabasic/spiplatform/README.md)：独立 SDK、插件 JAR 接入、ServiceLoader 发现与线程上下文类加载器。
