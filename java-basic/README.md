@@ -9,6 +9,7 @@
 - 案例复杂时按实际职责增加子包，不跨案例引用实现或共享可变状态。
 - 每个代码包提供详细的中文 `package-info.java`；新增案例时说明主要类、入口、预期行为和边界条件。
 - 首个案例为 [简化 Tomcat 类加载器](src/com/advance/javabasic/tomcatloader/README.md)，包含独立夹具和可执行行为验证。
+- 第二个案例为 [SPI SDK 与插件平台](src/com/advance/javabasic/spiplatform/README.md)，包含独立 SDK、宿主、两个插件及可调试 main 入口。
 
 ## 编译与运行
 
